@@ -42,5 +42,6 @@ bib_number,name
 
 Excel files can be saved/exported as CSV before import.
 
+Deployment trigger
 ## Deploy
 The project is Vite-compatible and can be deployed to Vercel, Netlify or Cloudflare Pages. Add the two Supabase environment variables to the hosting provider.
